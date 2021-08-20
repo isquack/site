@@ -36,7 +36,7 @@ nvim +PackerSync
 ### Uninstall
 
 ```shell
-rm -rf ~/.config/cache/nvim
-rm -rf ~/.config/config/nvim
+rm -rf ~/.cache/nvim
+rm -rf ~/.config/nvim
 rm -rf ~/.local/share/nvim
 ```
